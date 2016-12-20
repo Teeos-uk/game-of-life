@@ -1,0 +1,22 @@
+table {
+	border-collapse: collapse;
+}
+
+td {
+	width: 20px;
+	height: 20px;
+	background-color: grey;
+	padding: 0px;
+
+	color: #EEEED8;
+	text-align: center;
+	font-size: 75%;
+}
+
+.cell_dead {
+	background-color: #FF851B;
+}
+
+.cell_alive {
+	background-color: #111;
+}
